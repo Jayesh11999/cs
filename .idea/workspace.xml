@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2c8f5cc-589c-4a93-b8d5-9bcfde9147b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/Approver_Setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/Approver_Setting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/CO_Dashbboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/CO_Dashbboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/CO_Settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/CO_Settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/Compliance_Login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/Compliance_Login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/Compliance_Notifications.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/Compliance_Notifications.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/Compliance_Updates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/Compliance_Updates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/Regression_Suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/Regression_Suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build/TM_Setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/build/TM_Setting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Config/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Config/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Config/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Config/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Abstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Abstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Approver_Setting_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Approver_Setting_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/CO_Dashboard_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/CO_Dashboard_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/CO_Setting_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/CO_Setting_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Compliance_Login_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Compliance_Login_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Compliance_Notifications_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Compliance_Notifications_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Compliance_Updates_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Compliance_Updates_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/SignUp_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/SignUp_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/TM_Setting_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/TM_Setting_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/Approver_Setting_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/Approver_Setting_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/CO_Dashboard_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/CO_Dashboard_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/CO_Setting_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/CO_Setting_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/Compliance_Login_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/Compliance_Login_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/Compliance_Notifications_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/Compliance_Notifications_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/Compliance_Updates_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/Compliance_Updates_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/SignUp_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/SignUp_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TM_Setting_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/TM_Setting_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Test_Data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Test_Data.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PH9Zog7VBzOJamLU1ZCnQnHzgI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/CS_Automation/CS_Auto-New-Frame&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.CO_Setting_Tests.verifyDeleteTheCreatedMemberFromSettingByCSOfficer">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CS_Auto-New-Frame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CS_Auto-New-Frame" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CO_Setting_Tests.verifyAddNewCompanyFromSettingInCS" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CS_Auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.CO_Setting_Tests" />
+      <option name="METHOD_NAME" value="verifyAddNewCompanyFromSettingInCS" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CO_Setting_Tests.verifyAddNewMembersFromSettingByCSOfficer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CS_Auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.CO_Setting_Tests" />
+      <option name="METHOD_NAME" value="verifyAddNewMembersFromSettingByCSOfficer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CO_Setting_Tests.verifyDeleteTheCreatedMemberFromSettingByCSOfficer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CS_Auto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.CO_Setting_Tests" />
+      <option name="METHOD_NAME" value="verifyDeleteTheCreatedMemberFromSettingByCSOfficer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Compliance_Login_Tests.verifyLoginWithValidComplianceOfficerCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CS_Auto" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Compliance_Login_Tests" />
+      <option name="METHOD_NAME" value="verifyLoginWithValidComplianceOfficerCredentials" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/CS_Automation/CS_Auto-New-Frame/src/build/Regression_Suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CS_Auto" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/build/Regression_Suite.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.CO_Setting_Tests.verifyAddNewCompanyFromSettingInCS" />
+      <item itemvalue="TestNG.CO_Setting_Tests.verifyAddNewMembersFromSettingByCSOfficer" />
+      <item itemvalue="TestNG.CO_Setting_Tests.verifyDeleteTheCreatedMemberFromSettingByCSOfficer" />
+      <item itemvalue="TestNG.Compliance_Login_Tests.verifyLoginWithValidComplianceOfficerCredentials" />
+      <item itemvalue="TestNG.E:/CS_Automation/CS_Auto-New-Frame/src/build/Regression_Suite.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CO_Setting_Tests.verifyDeleteTheCreatedMemberFromSettingByCSOfficer" />
+        <item itemvalue="TestNG.CO_Setting_Tests.verifyAddNewMembersFromSettingByCSOfficer" />
+        <item itemvalue="TestNG.CO_Setting_Tests.verifyAddNewCompanyFromSettingInCS" />
+        <item itemvalue="TestNG.E:/CS_Automation/CS_Auto-New-Frame/src/build/Regression_Suite.xml" />
+        <item itemvalue="TestNG.Compliance_Login_Tests.verifyLoginWithValidComplianceOfficerCredentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2c8f5cc-589c-4a93-b8d5-9bcfde9147b0" name="Changes" comment="" />
+      <created>1683103200110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683103200110</updated>
+    </task>
+    <servers />
+  </component>
+</project>
